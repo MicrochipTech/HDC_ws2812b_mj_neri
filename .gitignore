@@ -1,0 +1,8 @@
+.vscode/
+build
+.generated_files
+Makefile-*
+Package-*
+private
+dist
+*.zip
